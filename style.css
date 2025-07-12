@@ -28,13 +28,13 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .main-image img {
-  width: 100%;
-  max-width: 900px;
-  border-radius: 20px;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 10px;
   box-shadow: 0 12px 40px rgba(0,0,0,0.7);
   transition: transform 0.3s, box-shadow 0.3s;
 }
