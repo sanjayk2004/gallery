@@ -8,7 +8,8 @@ const images = [
   '2013946.jpg',
   '25930.jpg',
   '25926.png',
-  '25913.png'
+  '25913.png',
+  '13898.jpg'
 ];
 
 // Create thumbnails dynamically
