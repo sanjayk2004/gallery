@@ -28,18 +28,23 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+  height: auto;
 }
+
 
 .main-image img {
   width: 100%;
-  max-width: 600px;  
+  max-width: 600px;
+  height: auto;
   max-height: 60vh;
   border-radius: 10px;
   box-shadow: 0 12px 40px rgba(0,0,0,0.7);
   transition: transform 0.3s, box-shadow 0.3s;
   object-fit: contain; 
 }
+
 
 
 .main-image img:hover {
