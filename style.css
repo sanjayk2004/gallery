@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  font-family: 'Helvetica Neue', sans-serif;
-  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  font-family: 'Helvetica-grosse-bit', sans-serif;
+  background: linear-gradient(to right, #ff4e50, #c31432, #8e0e00);
   color: #fff;
   min-height: 100vh;
 }
